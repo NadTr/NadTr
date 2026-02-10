@@ -1,5 +1,5 @@
 # Hello, I'm NadTr 🎋
-I'm an analyst developer and junior game developer ✨
+I'm an analyst and web/game developer ✨
 
 ### Technical skills
 
