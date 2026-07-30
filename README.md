@@ -4,7 +4,7 @@ I'm an analyst and web/game developer ✨
 ### Technical skills
 
  - 🎨 HTML/Css, Blender and Aseprite
- - 💾 SQL, PHP, Python, C# and JavaScript
+ - 💾 SQL, Python, C#, PHP and JavaScript
  - 🔧 Unity, PowerBi, Toad
  - ⌛ I’m currently learning Godot and GDScript
 
